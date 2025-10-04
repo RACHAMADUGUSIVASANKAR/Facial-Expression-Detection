@@ -38,7 +38,7 @@ FacialExpressionDetection/
 **Note:** Use `dlib-bin` for Windows to avoid compilation errors.
 
 ---
-
+## Key Components
 1. **yawnDetector.py**
    -	Type: Python script
    -	Purpose: Detects yawns in real-time using a webcam.
@@ -106,7 +106,7 @@ FacialExpressionDetection/
 7. **Other files**
    - README.md (if you have one): Explains your project.
    - Any CSV or images you might use for testing.
-
+---
 
 ## Setup Steps
 
@@ -188,11 +188,26 @@ git push -u origin main
 * [dlib face landmarks](http://dlib.net/face_landmark_detection.py.html)
 * [OpenCV Haar Cascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-```
+---
+
+## 👨‍💻 Author
+
+**Sivasankar R**  
+AI & ML Engineering Student  
+GitHub: [RACHAMADUGUSIVASANKAR](https://github.com/RACHAMADUGUSIVASANKAR)
+Linkidin: [RACHAMADUGUSIVASANKAR](https://www.linkedin.com/in/sivasankar-rachamadugu/)
+
 
 ---
 
-I can also create a **version with step-by-step screenshots and tips for avoiding all the errors** you faced with Python versions and dependencies. This would be perfect for showing your teacher.  
+## 📄 License
+
+This project is licensed under the MIT License.
+```
+
+Let me know if you'd like this formatted for a GitHub Pages site or want badges (e.g., build status, license, Python version) added!
+
+
 
 Do you want me to do that next?
 ```
