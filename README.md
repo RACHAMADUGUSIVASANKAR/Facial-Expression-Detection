@@ -135,7 +135,21 @@ FacialExpressionDetection/
      * [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
      * [haarcascade_smile.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_smile.xml)
 
-4. **Run detectors:**
+4. **Smile Detector**
+
+     ```bash
+     python smileDetector.py
+     ```
+
+     * Opens webcam
+     * Detects faces and smiles
+     * Press q to quit.
+       
+**Smile Detection Demo Video**
+
+https://github.com/user-attachments/assets/ac82be02-30da-4c16-b3bb-2e321eb2502b
+
+ 5. **Run detectors:**
 
    * **Yawn Detector**
 
@@ -147,16 +161,10 @@ FacialExpressionDetection/
      * Detects mouth landmarks
      * Counts yawns
      * Press q to quit.
+     
+ **Yawn Detection Demo Video**
 
-   * **Smile Detector**
-
-     ```bash
-     python smileDetector.py
-     ```
-
-     * Opens webcam
-     * Detects faces and smiles
-     * Press q to quit.
+https://github.com/user-attachments/assets/d763dcdf-e5a4-4636-bf82-e5e80721ffd5
 
 ---
 
